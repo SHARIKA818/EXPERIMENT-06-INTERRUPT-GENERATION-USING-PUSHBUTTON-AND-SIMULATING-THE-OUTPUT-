@@ -176,5 +176,5 @@ void assert_failed(uint8_t *file, uint32_t line)
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
 
   <img width="581" height="560" alt="Screenshot 2025-10-06 092700" src="https://github.com/user-attachments/assets/0b0c38b0-8981-460e-86f7-4a2271e02501" />
-## Result :
-Interfacing a push button and interrupt genrateion is simulated using proteus 
+  
+## Result : Interfacing a push button and interrupt genrateion is simulated using proteus .
